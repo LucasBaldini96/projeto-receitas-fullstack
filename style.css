@@ -11,7 +11,8 @@
 }
 
 body {
-  background-image: url(assets/bg-image.jpg);
+  background-color: #573824;
+  background-image: url(assets/bg.jpg);
   background-size: cover;
 }
 
@@ -63,4 +64,5 @@ ul {
 footer {
   padding-bottom: 48px;
   text-align: center;
+  color: #F0E8C2;
 }
